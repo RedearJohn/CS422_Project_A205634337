@@ -170,7 +170,7 @@ Format: CSV, with numerical features (real numbers) and categorical features (ge
 - Scalers: `saved_models/{model}/cluster_{id}_scaler.joblib`
 - Class Names: `saved_models/class_names/{model}_cluster_{id}_classes.txt`
 
-## Process Summary(resulta)
+## Process Summary(result)
 
 Through data preprocessing, visualization, and modeling, this project achieved:
 
