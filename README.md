@@ -119,7 +119,7 @@ Format: CSV, with numerical features (real numbers) and categorical features (ge
 ├── Spotify_pre_visualize.ipynb
 ├── Spotify_model_building_evaluating.ipynb
 ```
-
+[Since some model files (random forest and catboost .joblib/.cbm files) were too large to upload to GitHub, I have deleted them.]
 ## Data Preparation and Visualization
 
 ### Code Used: Python
