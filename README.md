@@ -193,7 +193,6 @@ The project demonstrates that genre classification using machine learning is fea
 
 - maharshipandya . “Spotify Tracks Genre Dataset.” Kaggle, [https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset/data](https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset/data)
 - Source,[https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset]
-(https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset)
 - Scikit-learn documentation
 - CatBoost documentation
 - Spotify Developer Guide
