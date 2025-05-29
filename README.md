@@ -53,7 +53,7 @@ Can machine learning models accurately classify Spotify songs into genres based 
 
 ### Data Sources
 
-Kaggle public dataset, e.g., Spotify Tracks Dataset.
+Kaggle public dataset, e.g., Spotify Tracks Genre Dataset.
 
 ## Data Understanding
 
@@ -191,7 +191,9 @@ The project demonstrates that genre classification using machine learning is fea
 
 ## Bibliography
 
-- Maharshi Pandya. “Spotify Tracks Dataset.” Kaggle, [https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+- maharshipandya . “Spotify Tracks Genre Dataset.” Kaggle, [https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset/data](https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset/data)
+- Source,[https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset]
+(https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset)
 - Scikit-learn documentation
 - CatBoost documentation
 - Spotify Developer Guide
