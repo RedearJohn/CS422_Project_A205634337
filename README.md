@@ -183,7 +183,6 @@ Through data preprocessing, visualization, and modeling, this project achieved:
 
 - Introduce time-series or lyrics features.
 - Explore model ensembling strategies.
-- Support interactive 3D PCA visualizations.
 - Integrate with a music recommendation engine.
 
 ## Conclusion
