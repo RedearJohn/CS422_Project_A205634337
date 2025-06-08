@@ -48,8 +48,8 @@ Can machine learning models accurately classify Spotify songs into genres based 
 1. **Preprocessing**: Clean, encode, and standardize audio feature data.
 2. **Clustering**: Split dataset into 8 clusters based on feature similarity.
 3. **Modeling**: Train and evaluate Logistic Regression, Random Forest, and CatBoost for each cluster.
-4. **Visualization**: PCA for 2D genre separation; ROC and feature importance plots.
-5. **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score, AUC.
+4. **Visualization**: PCA for 2D genre separation; ROC and feature importance plots,confusion matrix plot.
+5. **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score, AUC,confusion matrix.
 
 ### Data Sources
 
@@ -187,7 +187,11 @@ Through data preprocessing, visualization, and modeling, this project achieved:
 
 ## Conclusion
 
-The project demonstrates that genre classification using machine learning is feasible and beneficial. CatBoost excels in handling complex, imbalanced datasets. Feature importance analysis reveals actionable insights for future feature engineering and system improvement.
+In this project, I built a cluster-based music genre classification system using three models: Logistic Regression, Random Forest, and CatBoost. By segmenting the data into clusters and training separate models for each, we achieved more targeted and accurate predictions.
+
+Among the three models, CatBoost consistently delivered the best performance, achieving the highest ROC-AUC scores across most clusters. Its ability to handle feature interactions and categorical variables proved particularly effective.
+
+The project demonstrates that genre classification using machine learning is feasible and beneficial. It illustrates the power of combining unsupervised learning for segmentation with supervised learning for prediction CatBoost excels in handling complex, imbalanced datasets. Feature importance analysis reveals actionable insights for future feature engineering and system improvement.
 
 ## Bibliography
 
